@@ -4,3 +4,8 @@ I'm Rodrigo Silva, I study Computer Science and Engineering, I did my bachelor's
 
 - 🔭 I’m currently working on  my thesis - "Deduplication vs Privacy Tradeoffs in Cloud Storage" 
 - 📫 How to reach me: My [website](https://rodrigo-silva.com/) has my contacts
+
+Some of my hobbies
+- 🎸 Playing guitar
+- 🍕 Finding new places to eat
+- 🚀 Travelling
